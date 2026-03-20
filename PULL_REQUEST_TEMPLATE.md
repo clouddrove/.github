@@ -1,12 +1,23 @@
-## what
-* Describe high-level what changed as a result of these commits (i.e. in plain-english, what do these changes mean?)
-* Use bullet points to be concise and to the point.
+## What
 
-## why
-* Provide the justifications for the changes (e.g. business case).
-* Describe why these changes were made (e.g. why do these commits fix the problem?)
-* Use bullet points to be concise and to the point.
+<!-- Describe what this PR does -->
 
-## references
-* Link to any supporting jira issues or helpful documentation to add some context (e.g. stackoverflow).
-* Use `closes #123`, if this PR closes a Jira issue `#123`
+## Why
+
+<!-- Why is this change needed? -->
+
+## How
+
+<!-- How was this implemented? -->
+
+## Checklist
+
+- [ ] Code follows existing conventions
+- [ ] Updated or added examples in `examples/`
+- [ ] Ran `pre-commit run -a` locally
+- [ ] Updated documentation if needed
+- [ ] All CI checks pass
+
+## References
+
+<!-- Link to any related issues, docs, or context -->
